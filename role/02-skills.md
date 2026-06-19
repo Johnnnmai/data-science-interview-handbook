@@ -177,11 +177,11 @@ Top domain skills:
 
 ## The Typical Data Science Stack
 
-- STATISTICS layer - Hypothesis testing, causal inference, Bayesian methods
-- DATA layer - SQL, pandas, Spark, data wrangling at scale
-- MODELING layer - scikit-learn, XGBoost, TensorFlow/PyTorch, feature engineering
-- EXPERIMENTATION layer - A/B testing, multi-armed bandits, uplift modeling
-- COMMUNICATION layer - Dashboards, presentations, stakeholder management
+- Statistics layer - Hypothesis testing, causal inference, Bayesian methods
+- Data layer - SQL, pandas, Spark, data wrangling at scale
+- Modeling layer - scikit-learn, XGBoost, TensorFlow/PyTorch, feature engineering
+- Experimentation layer - A/B testing, multi-armed bandits, uplift modeling
+- Communication layer - Dashboards, presentations, stakeholder management
 
 
 ## Learning Path for Data Scientists

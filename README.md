@@ -10,7 +10,7 @@
   <a href="https://github.com/Johnnnmai/data-science-interview-field-guide/stargazers"><img src="https://img.shields.io/github/stars/Johnnnmai/data-science-interview-field-guide?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/Johnnnmai/data-science-interview-field-guide/network/members"><img src="https://img.shields.io/github/forks/Johnnnmai/data-science-interview-field-guide?style=social" alt="GitHub Forks"></a>
   <a href="#license"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/Johnnnmai/data-science-interview-field-guide/commits/main"><img src="https://img.shields.io/github/last-commit/Johnnnmai/data-science-interview-field-guide" alt="Last Commit"></a>
+  <a href="https://github.com/Johnnnmai/data-science-interview-field-guide/commits/master"><img src="https://img.shields.io/github/last-commit/Johnnnmai/data-science-interview-field-guide" alt="Last Commit"></a>
 </p>
 
 <p align="center">
