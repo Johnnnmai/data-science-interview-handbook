@@ -31,15 +31,15 @@ Everything here is based on real data: 1,950+ actual job descriptions, real inte
 
 This repo exists to become the go-to resource for data science careers - role analysis, interview questions, career transition paths, portfolio strategy, and curated resources. All in one place. All backed by data.
 
-Star this repo to keep an eye on updates. Visit [valenx.org](https://valenx.org/) for more data science career resources.
+Star this repo to keep an eye on updates. Visit [valenx.org](https://valenx.org/?utm_source=github&utm_medium=readme&utm_content=data-science-interview-handbook_L34) for more data science career resources.
 
 ---
 
 ### Sponsored by
 
-[The 0→1 Data Scientist Interview Playbook](https://valenx.org/books/ds) - A Practical System for FAANG Data Science Interviews. Built from 200+ real DS interview loops at Google, Amazon, Meta, Apple.
+[The 0→1 Data Scientist Interview Playbook](https://valenx.org/books/ds?utm_source=github&utm_medium=readme&utm_content=data-science-interview-handbook_L40) - A Practical System for FAANG Data Science Interviews. Built from 200+ real DS interview loops at Google, Amazon, Meta, Apple.
 
-<a href="https://valenx.org/books/ds"><img src="https://img.shields.io/badge/Amazon_Kindle-$9.99-orange?style=for-the-badge&logo=amazon" alt="Get on Amazon"></a> <a href="https://www.amazon.com/dp/B0H1NWZB2R"><img src="https://img.shields.io/badge/Free_with-Kindle_Unlimited-blue?style=for-the-badge&logo=amazon" alt="Free with KU"></a>
+<a href="https://valenx.org/books/ds?utm_source=github&utm_medium=readme&utm_content=data-science-interview-handbook_L42"><img src="https://img.shields.io/badge/Amazon_Kindle-$9.99-orange?style=for-the-badge&logo=amazon" alt="Get on Amazon"></a> <a href="https://www.amazon.com/dp/B0H1NWZB2R"><img src="https://img.shields.io/badge/Free_with-Kindle_Unlimited-blue?style=for-the-badge&logo=amazon" alt="Free with KU"></a>
 
 ---
 
@@ -180,7 +180,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  <a href="https://valenx.org/books/ds">The 0→1 Data Scientist Interview Playbook</a>
+  <a href="https://valenx.org/books/ds?utm_source=github&utm_medium=readme&utm_content=data-science-interview-handbook_L183">The 0→1 Data Scientist Interview Playbook</a>
   <br/><br/>
   If this helped, <a href="https://github.com/Johnnnmai/data-science-interview-handbook/stargazers">leave a star</a>
 </p>
